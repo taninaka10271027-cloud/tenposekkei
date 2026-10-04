@@ -1,0 +1,1978 @@
+{
+ "devices": [
+  {
+   "id": "P1",
+   "kind": "PNL",
+   "room": "倉庫",
+   "circuit": null,
+   "group": null
+  },
+  {
+   "id": "P2",
+   "kind": "PNL",
+   "room": "事務所",
+   "circuit": null,
+   "group": null
+  },
+  {
+   "id": "c1",
+   "kind": "DL",
+   "room": "客席（入口・レジ付近）",
+   "circuit": "L1-2",
+   "group": "ア"
+  },
+  {
+   "id": "c2",
+   "kind": "DL",
+   "room": "客席（入口・レジ付近）",
+   "circuit": "L1-2",
+   "group": "ア"
+  },
+  {
+   "id": "c3",
+   "kind": "DL",
+   "room": "客席（入口・レジ付近）",
+   "circuit": "L1-2",
+   "group": "ア"
+  },
+  {
+   "id": "c4",
+   "kind": "DL",
+   "room": "客席（入口・レジ付近）",
+   "circuit": "L1-2",
+   "group": "ア"
+  },
+  {
+   "id": "c5",
+   "kind": "DL",
+   "room": "客席（入口・レジ付近）",
+   "circuit": "L1-2",
+   "group": "ア"
+  },
+  {
+   "id": "c6",
+   "kind": "DL",
+   "room": "客席（入口・レジ付近）",
+   "circuit": "L1-2",
+   "group": "ア"
+  },
+  {
+   "id": "c7",
+   "kind": "DL",
+   "room": "客席（入口・レジ付近）",
+   "circuit": "L1-2",
+   "group": "ア"
+  },
+  {
+   "id": "c8",
+   "kind": "DL",
+   "room": "客席（入口・レジ付近）",
+   "circuit": "L1-2",
+   "group": "ア"
+  },
+  {
+   "id": "c9",
+   "kind": "DL",
+   "room": "客席（入口・レジ付近）",
+   "circuit": "L1-2",
+   "group": "ア"
+  },
+  {
+   "id": "e1",
+   "kind": "DL",
+   "room": "客席（カウンター・通路）",
+   "circuit": "L1-2",
+   "group": "イ"
+  },
+  {
+   "id": "e2",
+   "kind": "DL",
+   "room": "客席（カウンター・通路）",
+   "circuit": "L1-2",
+   "group": "イ"
+  },
+  {
+   "id": "e3",
+   "kind": "DL",
+   "room": "客席（カウンター・通路）",
+   "circuit": "L1-2",
+   "group": "イ"
+  },
+  {
+   "id": "e4",
+   "kind": "DL",
+   "room": "客席（カウンター・通路）",
+   "circuit": "L1-2",
+   "group": "イ"
+  },
+  {
+   "id": "e5",
+   "kind": "DL",
+   "room": "客席（カウンター・通路）",
+   "circuit": "L1-2",
+   "group": "イ"
+  },
+  {
+   "id": "e6",
+   "kind": "DL",
+   "room": "客席（カウンター・通路）",
+   "circuit": "L1-2",
+   "group": "イ"
+  },
+  {
+   "id": "e7",
+   "kind": "DL",
+   "room": "客席（カウンター・通路）",
+   "circuit": "L1-2",
+   "group": "イ"
+  },
+  {
+   "id": "e8",
+   "kind": "DL",
+   "room": "客席（カウンター・通路）",
+   "circuit": "L1-2",
+   "group": "イ"
+  },
+  {
+   "id": "e9",
+   "kind": "DL",
+   "room": "客席（カウンター・通路）",
+   "circuit": "L1-2",
+   "group": "イ"
+  },
+  {
+   "id": "d1",
+   "kind": "DL",
+   "room": "客席（ボックス席）",
+   "circuit": "L1-2",
+   "group": "ウ"
+  },
+  {
+   "id": "d2",
+   "kind": "DL",
+   "room": "客席（ボックス席）",
+   "circuit": "L1-2",
+   "group": "ウ"
+  },
+  {
+   "id": "d3",
+   "kind": "DL",
+   "room": "客席（ボックス席）",
+   "circuit": "L1-2",
+   "group": "ウ"
+  },
+  {
+   "id": "d4",
+   "kind": "DL",
+   "room": "客席（ボックス席）",
+   "circuit": "L1-2",
+   "group": "ウ"
+  },
+  {
+   "id": "d5",
+   "kind": "DL",
+   "room": "客席（ボックス席）",
+   "circuit": "L1-2",
+   "group": "ウ"
+  },
+  {
+   "id": "d6",
+   "kind": "DL",
+   "room": "客席（ボックス席）",
+   "circuit": "L1-2",
+   "group": "ウ"
+  },
+  {
+   "id": "d7",
+   "kind": "DL",
+   "room": "客席（ボックス席）",
+   "circuit": "L1-2",
+   "group": "ウ"
+  },
+  {
+   "id": "d8",
+   "kind": "DL",
+   "room": "客席（ボックス席）",
+   "circuit": "L1-2",
+   "group": "ウ"
+  },
+  {
+   "id": "z11",
+   "kind": "DL",
+   "room": "座敷（客席）",
+   "circuit": "L1-2",
+   "group": "エ"
+  },
+  {
+   "id": "z12",
+   "kind": "DL",
+   "room": "座敷（客席）",
+   "circuit": "L1-2",
+   "group": "エ"
+  },
+  {
+   "id": "z13",
+   "kind": "DL",
+   "room": "座敷（客席）",
+   "circuit": "L1-2",
+   "group": "エ"
+  },
+  {
+   "id": "z21",
+   "kind": "DL",
+   "room": "座敷（客席）",
+   "circuit": "L1-2",
+   "group": "エ"
+  },
+  {
+   "id": "z22",
+   "kind": "DL",
+   "room": "座敷（客席）",
+   "circuit": "L1-2",
+   "group": "エ"
+  },
+  {
+   "id": "z23",
+   "kind": "DL",
+   "room": "座敷（客席）",
+   "circuit": "L1-2",
+   "group": "エ"
+  },
+  {
+   "id": "z31",
+   "kind": "DL",
+   "room": "座敷（客席）",
+   "circuit": "L1-2",
+   "group": "オ"
+  },
+  {
+   "id": "z32",
+   "kind": "DL",
+   "room": "座敷（客席）",
+   "circuit": "L1-2",
+   "group": "オ"
+  },
+  {
+   "id": "z33",
+   "kind": "DL",
+   "room": "座敷（客席）",
+   "circuit": "L1-2",
+   "group": "オ"
+  },
+  {
+   "id": "z41",
+   "kind": "DL",
+   "room": "座敷（客席）",
+   "circuit": "L1-2",
+   "group": "オ"
+  },
+  {
+   "id": "z42",
+   "kind": "DL",
+   "room": "座敷（客席）",
+   "circuit": "L1-2",
+   "group": "オ"
+  },
+  {
+   "id": "z43",
+   "kind": "DL",
+   "room": "座敷（客席）",
+   "circuit": "L1-2",
+   "group": "オ"
+  },
+  {
+   "id": "s1",
+   "kind": "BL",
+   "room": "倉庫",
+   "circuit": "L1-2",
+   "group": null
+  },
+  {
+   "id": "s2",
+   "kind": "BL",
+   "room": "倉庫",
+   "circuit": "L1-2",
+   "group": null
+  },
+  {
+   "id": "swA",
+   "kind": "SW",
+   "room": "客席",
+   "circuit": "L1-2",
+   "group": "ア",
+   "sub": null,
+   "x": 6010,
+   "y": 9830
+  },
+  {
+   "id": "swI",
+   "kind": "SW",
+   "room": "客席",
+   "circuit": "L1-2",
+   "group": "イ",
+   "sub": null,
+   "x": 6010,
+   "y": 10080
+  },
+  {
+   "id": "swU",
+   "kind": "SW",
+   "room": "客席",
+   "circuit": "L1-2",
+   "group": "ウ",
+   "sub": null,
+   "x": 6010,
+   "y": 10330
+  },
+  {
+   "id": "swE",
+   "kind": "SW",
+   "room": "座敷（客席）",
+   "circuit": "L1-2",
+   "group": "エ",
+   "sub": null,
+   "x": 6290,
+   "y": 6950
+  },
+  {
+   "id": "swO",
+   "kind": "SW",
+   "room": "座敷（客席）",
+   "circuit": "L1-2",
+   "group": "オ",
+   "sub": null,
+   "x": 6290,
+   "y": 7130
+  },
+  {
+   "id": "swS",
+   "kind": "SW",
+   "room": "倉庫",
+   "circuit": "L1-2",
+   "group": null,
+   "sub": null,
+   "x": 6010,
+   "y": 6950
+  },
+  {
+   "id": "k1",
+   "kind": "BL",
+   "room": "厨房",
+   "circuit": "L1-1",
+   "group": "キ"
+  },
+  {
+   "id": "k2",
+   "kind": "BL",
+   "room": "厨房",
+   "circuit": "L1-1",
+   "group": "キ"
+  },
+  {
+   "id": "k3",
+   "kind": "BL",
+   "room": "厨房",
+   "circuit": "L1-1",
+   "group": "キ"
+  },
+  {
+   "id": "swK1",
+   "kind": "SW",
+   "room": "厨房",
+   "circuit": "L1-1",
+   "group": "キ",
+   "sub": "3",
+   "x": 6290,
+   "y": 11600
+  },
+  {
+   "id": "swK2",
+   "kind": "SW",
+   "room": "厨房",
+   "circuit": "L1-1",
+   "group": "キ",
+   "sub": "3",
+   "x": 11985,
+   "y": 11600
+  },
+  {
+   "id": "wf1",
+   "kind": "DL",
+   "room": "便所（女子）",
+   "circuit": "L1-1",
+   "group": null
+  },
+  {
+   "id": "wm1",
+   "kind": "DL",
+   "room": "便所（男子）",
+   "circuit": "L1-1",
+   "group": null
+  },
+  {
+   "id": "swWF",
+   "kind": "SW",
+   "room": "便所（女子）",
+   "circuit": "L1-1",
+   "group": null,
+   "sub": "L",
+   "x": 10050,
+   "y": 8340
+  },
+  {
+   "id": "swWM",
+   "kind": "SW",
+   "room": "便所（男子）",
+   "circuit": "L1-1",
+   "group": null,
+   "sub": "L",
+   "x": 14650,
+   "y": 8340
+  },
+  {
+   "id": "oc1",
+   "kind": "OUT",
+   "room": "客席（入口・レジ付近）",
+   "circuit": "L1-3",
+   "group": null,
+   "spec": "2口コンセント 15A125V",
+   "sym": "2"
+  },
+  {
+   "id": "oc2",
+   "kind": "OUT",
+   "room": "客席（入口・レジ付近）",
+   "circuit": "L1-3",
+   "group": null,
+   "spec": "2口コンセント 15A125V",
+   "sym": "2"
+  },
+  {
+   "id": "oe1",
+   "kind": "OUT",
+   "room": "客席（カウンター・通路）",
+   "circuit": "L1-3",
+   "group": null,
+   "spec": "2口コンセント 15A125V",
+   "sym": "2"
+  },
+  {
+   "id": "oe2",
+   "kind": "OUT",
+   "room": "客席（カウンター・通路）",
+   "circuit": "L1-3",
+   "group": null,
+   "spec": "2口コンセント 15A125V",
+   "sym": "2"
+  },
+  {
+   "id": "os1",
+   "kind": "OUT",
+   "room": "倉庫",
+   "circuit": "L1-4",
+   "group": null,
+   "spec": "2口コンセント 15A125V",
+   "sym": "2"
+  },
+  {
+   "id": "os2",
+   "kind": "OUT",
+   "room": "倉庫",
+   "circuit": "L1-4",
+   "group": null,
+   "spec": "2口コンセント 15A125V",
+   "sym": "2"
+  },
+  {
+   "id": "oz1",
+   "kind": "OUT",
+   "room": "座敷（客席）",
+   "circuit": "L1-4",
+   "group": null,
+   "spec": "2口コンセント 15A125V",
+   "sym": "2"
+  },
+  {
+   "id": "oz2",
+   "kind": "OUT",
+   "room": "座敷（客席）",
+   "circuit": "L1-4",
+   "group": null,
+   "spec": "2口コンセント 15A125V",
+   "sym": "2"
+  },
+  {
+   "id": "od1",
+   "kind": "OUT",
+   "room": "客席（ボックス席）",
+   "circuit": "L1-4",
+   "group": null,
+   "spec": "2口コンセント 15A125V",
+   "sym": "2"
+  },
+  {
+   "id": "od2",
+   "kind": "OUT",
+   "room": "客席（ボックス席）",
+   "circuit": "L1-4",
+   "group": null,
+   "spec": "2口コンセント 15A125V",
+   "sym": "2"
+  },
+  {
+   "id": "ok1",
+   "kind": "OUT",
+   "room": "厨房",
+   "circuit": "L1-5",
+   "group": null,
+   "spec": "2口コンセント 接地極付 15A125V",
+   "sym": "2E"
+  },
+  {
+   "id": "ok2",
+   "kind": "OUT",
+   "room": "厨房",
+   "circuit": "L1-5",
+   "group": null,
+   "spec": "2口コンセント 接地極付 15A125V",
+   "sym": "2E"
+  },
+  {
+   "id": "ow1",
+   "kind": "OUT",
+   "room": "便所（女子）",
+   "circuit": "L1-6",
+   "group": null,
+   "spec": "コンセント 接地極付接地端子付 15A125V（温水洗浄便座用）",
+   "sym": "EET"
+  },
+  {
+   "id": "ow2",
+   "kind": "OUT",
+   "room": "便所（男子）",
+   "circuit": "L1-6",
+   "group": null,
+   "spec": "コンセント 接地極付接地端子付 15A125V（温水洗浄便座用）",
+   "sym": "EET"
+  },
+  {
+   "id": "ox1",
+   "kind": "OUT",
+   "room": "厨房",
+   "circuit": "L1-7",
+   "group": null,
+   "spec": "コンセント 接地極付 20A125V（専用）",
+   "sym": "E20A"
+  },
+  {
+   "id": "ox2",
+   "kind": "OUT",
+   "room": "厨房",
+   "circuit": "L1-8",
+   "group": null,
+   "spec": "コンセント 接地極付 20A125V（専用）",
+   "sym": "E20A"
+  },
+  {
+   "id": "ox3",
+   "kind": "OUT",
+   "room": "厨房",
+   "circuit": "L1-9",
+   "group": null,
+   "spec": "コンセント 接地極付 20A125V（専用）",
+   "sym": "E20A"
+  },
+  {
+   "id": "ox4",
+   "kind": "OUT",
+   "room": "厨房",
+   "circuit": "L1-10",
+   "group": null,
+   "spec": "コンセント 接地極付 20A250V（専用）",
+   "sym": "E20A250V"
+  },
+  {
+   "id": "ox5",
+   "kind": "OUT",
+   "room": "厨房",
+   "circuit": "L1-11",
+   "group": null,
+   "spec": "コンセント 接地極付 20A250V（専用）",
+   "sym": "E20A250V"
+  },
+  {
+   "id": "oik",
+   "kind": "OUT",
+   "room": "屋外（活イケス）",
+   "circuit": "L1-12",
+   "group": null,
+   "spec": "防雨形コンセント 接地極付 15A125V（専用）",
+   "sym": "EWP"
+  },
+  {
+   "id": "R1",
+   "kind": "RISER",
+   "room": "階段",
+   "circuit": null,
+   "group": null
+  },
+  {
+   "id": "ol1",
+   "kind": "BL",
+   "room": "事務所",
+   "circuit": "L2-1",
+   "group": "ア"
+  },
+  {
+   "id": "ol2",
+   "kind": "BL",
+   "room": "事務所",
+   "circuit": "L2-1",
+   "group": "ア"
+  },
+  {
+   "id": "ol3",
+   "kind": "BL",
+   "room": "事務所",
+   "circuit": "L2-1",
+   "group": "ア"
+  },
+  {
+   "id": "ol4",
+   "kind": "BL",
+   "room": "事務所",
+   "circuit": "L2-1",
+   "group": "イ"
+  },
+  {
+   "id": "ol5",
+   "kind": "BL",
+   "room": "事務所",
+   "circuit": "L2-1",
+   "group": "イ"
+  },
+  {
+   "id": "ol6",
+   "kind": "BL",
+   "room": "事務所",
+   "circuit": "L2-1",
+   "group": "イ"
+  },
+  {
+   "id": "swOA",
+   "kind": "SW",
+   "room": "事務所",
+   "circuit": "L2-1",
+   "group": "ア",
+   "sub": null,
+   "x": 15975,
+   "y": 6880
+  },
+  {
+   "id": "swOI",
+   "kind": "SW",
+   "room": "事務所",
+   "circuit": "L2-1",
+   "group": "イ",
+   "sub": null,
+   "x": 15975,
+   "y": 7080
+  },
+  {
+   "id": "og1",
+   "kind": "OUT",
+   "room": "事務所",
+   "circuit": "L2-2",
+   "group": null,
+   "spec": "2口コンセント 15A125V",
+   "sym": "2"
+  },
+  {
+   "id": "og2",
+   "kind": "OUT",
+   "room": "事務所",
+   "circuit": "L2-2",
+   "group": null,
+   "spec": "2口コンセント 15A125V",
+   "sym": "2"
+  },
+  {
+   "id": "oo1",
+   "kind": "OUT",
+   "room": "事務所",
+   "circuit": "L2-3",
+   "group": null,
+   "spec": "2口コンセント 接地極付 15A125V（OA専用）",
+   "sym": "2E"
+  },
+  {
+   "id": "oo2",
+   "kind": "OUT",
+   "room": "事務所",
+   "circuit": "L2-4",
+   "group": null,
+   "spec": "2口コンセント 接地極付 15A125V（OA専用）",
+   "sym": "2E"
+  },
+  {
+   "id": "oo3",
+   "kind": "OUT",
+   "room": "事務所",
+   "circuit": "L2-5",
+   "group": null,
+   "spec": "2口コンセント 接地極付 15A125V（OA専用）",
+   "sym": "2E"
+  },
+  {
+   "id": "oo4",
+   "kind": "OUT",
+   "room": "事務所",
+   "circuit": "L2-6",
+   "group": null,
+   "spec": "2口コンセント 接地極付 15A125V（OA専用）",
+   "sym": "2E"
+  }
+ ],
+ "cable_runs": [
+  {
+   "circuit": "L1-2",
+   "cable": "VVF1.6-2C",
+   "plan": 1247.0,
+   "drop": 0,
+   "kind": "器具間"
+  },
+  {
+   "circuit": "L1-2",
+   "cable": "VVF1.6-2C",
+   "plan": 1247.0,
+   "drop": 0,
+   "kind": "器具間"
+  },
+  {
+   "circuit": "L1-2",
+   "cable": "VVF1.6-2C",
+   "plan": 1247.0,
+   "drop": 0,
+   "kind": "器具間"
+  },
+  {
+   "circuit": "L1-2",
+   "cable": "VVF1.6-2C",
+   "plan": 1247.0,
+   "drop": 0,
+   "kind": "器具間"
+  },
+  {
+   "circuit": "L1-2",
+   "cable": "VVF1.6-2C",
+   "plan": 1247.0,
+   "drop": 0,
+   "kind": "器具間"
+  },
+  {
+   "circuit": "L1-2",
+   "cable": "VVF1.6-2C",
+   "plan": 1247.0,
+   "drop": 0,
+   "kind": "器具間"
+  },
+  {
+   "circuit": "L1-2",
+   "cable": "VVF1.6-2C",
+   "plan": 1811.0,
+   "drop": 0,
+   "kind": "器具間"
+  },
+  {
+   "circuit": "L1-2",
+   "cable": "VVF1.6-2C",
+   "plan": 1812.0,
+   "drop": 0,
+   "kind": "器具間"
+  },
+  {
+   "circuit": "L1-2",
+   "cable": "VVF1.6-2C",
+   "plan": 1126.0,
+   "drop": 1100,
+   "kind": "器具間"
+  },
+  {
+   "circuit": "L1-2",
+   "cable": "VVF1.6-2C",
+   "plan": 1950.0,
+   "drop": 0,
+   "kind": "器具間"
+  },
+  {
+   "circuit": "L1-2",
+   "cable": "VVF1.6-2C",
+   "plan": 1950.0,
+   "drop": 0,
+   "kind": "器具間"
+  },
+  {
+   "circuit": "L1-2",
+   "cable": "VVF1.6-2C",
+   "plan": 1950.0,
+   "drop": 0,
+   "kind": "器具間"
+  },
+  {
+   "circuit": "L1-2",
+   "cable": "VVF1.6-2C",
+   "plan": 1950.0,
+   "drop": 0,
+   "kind": "器具間"
+  },
+  {
+   "circuit": "L1-2",
+   "cable": "VVF1.6-2C",
+   "plan": 1180.0,
+   "drop": 0,
+   "kind": "器具間"
+  },
+  {
+   "circuit": "L1-2",
+   "cable": "VVF1.6-2C",
+   "plan": 1050.0,
+   "drop": 0,
+   "kind": "器具間"
+  },
+  {
+   "circuit": "L1-2",
+   "cable": "VVF1.6-2C",
+   "plan": 1100.0,
+   "drop": 0,
+   "kind": "器具間"
+  },
+  {
+   "circuit": "L1-2",
+   "cable": "VVF1.6-2C",
+   "plan": 1100.0,
+   "drop": 0,
+   "kind": "器具間"
+  },
+  {
+   "circuit": "L1-2",
+   "cable": "VVF1.6-2C",
+   "plan": 1090.0,
+   "drop": 1100,
+   "kind": "器具間"
+  },
+  {
+   "circuit": "L1-2",
+   "cable": "VVF1.6-2C",
+   "plan": 1500.0,
+   "drop": 0,
+   "kind": "器具間"
+  },
+  {
+   "circuit": "L1-2",
+   "cable": "VVF1.6-2C",
+   "plan": 1430.0,
+   "drop": 0,
+   "kind": "器具間"
+  },
+  {
+   "circuit": "L1-2",
+   "cable": "VVF1.6-2C",
+   "plan": 1914.0,
+   "drop": 0,
+   "kind": "器具間"
+  },
+  {
+   "circuit": "L1-2",
+   "cable": "VVF1.6-2C",
+   "plan": 1700.0,
+   "drop": 0,
+   "kind": "器具間"
+  },
+  {
+   "circuit": "L1-2",
+   "cable": "VVF1.6-2C",
+   "plan": 950.0,
+   "drop": 0,
+   "kind": "器具間"
+  },
+  {
+   "circuit": "L1-2",
+   "cable": "VVF1.6-2C",
+   "plan": 1700.0,
+   "drop": 0,
+   "kind": "器具間"
+  },
+  {
+   "circuit": "L1-2",
+   "cable": "VVF1.6-2C",
+   "plan": 950.0,
+   "drop": 0,
+   "kind": "器具間"
+  },
+  {
+   "circuit": "L1-2",
+   "cable": "VVF1.6-2C",
+   "plan": 6890.0,
+   "drop": 1100,
+   "kind": "器具間"
+  },
+  {
+   "circuit": "L1-2",
+   "cable": "VVF1.6-2C",
+   "plan": 1915.0,
+   "drop": 0,
+   "kind": "器具間"
+  },
+  {
+   "circuit": "L1-2",
+   "cable": "VVF1.6-2C",
+   "plan": 1900.0,
+   "drop": 0,
+   "kind": "器具間"
+  },
+  {
+   "circuit": "L1-2",
+   "cable": "VVF1.6-2C",
+   "plan": 3502.0,
+   "drop": 0,
+   "kind": "器具間"
+  },
+  {
+   "circuit": "L1-2",
+   "cable": "VVF1.6-2C",
+   "plan": 2700.0,
+   "drop": 0,
+   "kind": "器具間"
+  },
+  {
+   "circuit": "L1-2",
+   "cable": "VVF1.6-2C",
+   "plan": 2377.0,
+   "drop": 1100,
+   "kind": "器具間"
+  },
+  {
+   "circuit": "L1-2",
+   "cable": "VVF1.6-2C",
+   "plan": 1667.0,
+   "drop": 0,
+   "kind": "器具間"
+  },
+  {
+   "circuit": "L1-2",
+   "cable": "VVF1.6-2C",
+   "plan": 1667.0,
+   "drop": 0,
+   "kind": "器具間"
+  },
+  {
+   "circuit": "L1-2",
+   "cable": "VVF1.6-2C",
+   "plan": 1667.0,
+   "drop": 0,
+   "kind": "器具間"
+  },
+  {
+   "circuit": "L1-2",
+   "cable": "VVF1.6-2C",
+   "plan": 1667.0,
+   "drop": 0,
+   "kind": "器具間"
+  },
+  {
+   "circuit": "L1-2",
+   "cable": "VVF1.6-2C",
+   "plan": 1667.0,
+   "drop": 0,
+   "kind": "器具間"
+  },
+  {
+   "circuit": "L1-2",
+   "cable": "VVF1.6-2C",
+   "plan": 1667.0,
+   "drop": 0,
+   "kind": "器具間"
+  },
+  {
+   "circuit": "L1-2",
+   "cable": "VVF1.6-2C",
+   "plan": 1667.0,
+   "drop": 0,
+   "kind": "器具間"
+  },
+  {
+   "circuit": "L1-2",
+   "cable": "VVF1.6-2C",
+   "plan": 1667.0,
+   "drop": 0,
+   "kind": "器具間"
+  },
+  {
+   "circuit": "L1-2",
+   "cable": "VVF1.6-2C",
+   "plan": 1495.0,
+   "drop": 0,
+   "kind": "器具間"
+  },
+  {
+   "circuit": "L1-2",
+   "cable": "VVF1.6-2C",
+   "plan": 1495.0,
+   "drop": 0,
+   "kind": "器具間"
+  },
+  {
+   "circuit": "L1-2",
+   "cable": "VVF1.6-2C",
+   "plan": 1495.0,
+   "drop": 0,
+   "kind": "器具間"
+  },
+  {
+   "circuit": "L1-2",
+   "cable": "VVF1.6-2C",
+   "plan": 3445.0,
+   "drop": 0,
+   "kind": "器具間"
+  },
+  {
+   "circuit": "L1-2",
+   "cable": "VVF1.6-2C",
+   "plan": 1588.0,
+   "drop": 1100,
+   "kind": "器具間"
+  },
+  {
+   "circuit": "L1-2",
+   "cable": "VVF1.6-2C",
+   "plan": 4758.0,
+   "drop": 1100,
+   "kind": "器具間"
+  },
+  {
+   "circuit": "L1-1",
+   "cable": "VVF1.6-3C",
+   "plan": 888.0,
+   "drop": 1100,
+   "kind": "器具間"
+  },
+  {
+   "circuit": "L1-1",
+   "cable": "VVF1.6-2C×2",
+   "plan": 1959.0,
+   "drop": 0,
+   "kind": "器具間"
+  },
+  {
+   "circuit": "L1-1",
+   "cable": "VVF1.6-2C×2",
+   "plan": 1959.0,
+   "drop": 0,
+   "kind": "器具間"
+  },
+  {
+   "circuit": "L1-1",
+   "cable": "VVF1.6-3C",
+   "plan": 889.0,
+   "drop": 1100,
+   "kind": "器具間"
+  },
+  {
+   "circuit": "L1-1",
+   "cable": "VVF1.6-2C",
+   "plan": 390.0,
+   "drop": 1100,
+   "kind": "器具間"
+  },
+  {
+   "circuit": "L1-1",
+   "cable": "VVF1.6-2C",
+   "plan": 1120.0,
+   "drop": 1100,
+   "kind": "器具間"
+  },
+  {
+   "circuit": "L1-3",
+   "cable": "VVF2.0-2C",
+   "plan": 5370.0,
+   "drop": 4200,
+   "kind": "器具間"
+  },
+  {
+   "circuit": "L1-3",
+   "cable": "VVF2.0-2C",
+   "plan": 2900.0,
+   "drop": 4200,
+   "kind": "器具間"
+  },
+  {
+   "circuit": "L1-4",
+   "cable": "VVF2.0-2C",
+   "plan": 4305.0,
+   "drop": 4200,
+   "kind": "器具間"
+  },
+  {
+   "circuit": "L1-4",
+   "cable": "VVF2.0-2C",
+   "plan": 5700.0,
+   "drop": 4200,
+   "kind": "器具間"
+  },
+  {
+   "circuit": "L1-4",
+   "cable": "VVF2.0-2C",
+   "plan": 1900.0,
+   "drop": 4200,
+   "kind": "器具間"
+  },
+  {
+   "circuit": "L1-5",
+   "cable": "VVF2.0-3C",
+   "plan": 3710.0,
+   "drop": 4200,
+   "kind": "器具間"
+  },
+  {
+   "circuit": "L2-1",
+   "cable": "VVF1.6-2C",
+   "plan": 1700.0,
+   "drop": 0,
+   "kind": "器具間"
+  },
+  {
+   "circuit": "L2-1",
+   "cable": "VVF1.6-2C",
+   "plan": 1700.0,
+   "drop": 0,
+   "kind": "器具間"
+  },
+  {
+   "circuit": "L2-1",
+   "cable": "VVF1.6-2C",
+   "plan": 1700.0,
+   "drop": 0,
+   "kind": "器具間"
+  },
+  {
+   "circuit": "L2-1",
+   "cable": "VVF1.6-2C",
+   "plan": 1700.0,
+   "drop": 0,
+   "kind": "器具間"
+  },
+  {
+   "circuit": "L2-1",
+   "cable": "VVF1.6-2C",
+   "plan": 1945.0,
+   "drop": 0,
+   "kind": "器具間"
+  },
+  {
+   "circuit": "L2-1",
+   "cable": "VVF1.6-2C",
+   "plan": 1710.0,
+   "drop": 1100,
+   "kind": "器具間"
+  },
+  {
+   "circuit": "L2-1",
+   "cable": "VVF1.6-2C",
+   "plan": 3855.0,
+   "drop": 1100,
+   "kind": "器具間"
+  },
+  {
+   "circuit": "L2-2",
+   "cable": "VVF2.0-2C",
+   "plan": 900.0,
+   "drop": 4200,
+   "kind": "器具間"
+  },
+  {
+   "circuit": "L1-2",
+   "cable": "VVF1.6-2C",
+   "plan": 2417,
+   "drop": 600,
+   "kind": "ホームラン"
+  },
+  {
+   "circuit": "L1-1",
+   "cable": "VVF1.6-2C",
+   "plan": 8478,
+   "drop": 600,
+   "kind": "ホームラン"
+  },
+  {
+   "circuit": "L1-1",
+   "cable": "VVF1.6-2C",
+   "plan": 7700,
+   "drop": 600,
+   "kind": "ホームラン"
+  },
+  {
+   "circuit": "L1-1",
+   "cable": "VVF1.6-2C",
+   "plan": 11570,
+   "drop": 600,
+   "kind": "ホームラン"
+  },
+  {
+   "circuit": "L1-3",
+   "cable": "VVF2.0-2C",
+   "plan": 8760,
+   "drop": 2700,
+   "kind": "ホームラン"
+  },
+  {
+   "circuit": "L1-3",
+   "cable": "VVF2.0-2C",
+   "plan": 6980,
+   "drop": 2700,
+   "kind": "ホームラン"
+  },
+  {
+   "circuit": "L1-4",
+   "cable": "VVF2.0-2C",
+   "plan": 2860,
+   "drop": 2700,
+   "kind": "ホームラン"
+  },
+  {
+   "circuit": "L1-4",
+   "cable": "VVF2.0-2C",
+   "plan": 1290,
+   "drop": 2700,
+   "kind": "ホームラン"
+  },
+  {
+   "circuit": "L1-4",
+   "cable": "VVF2.0-2C",
+   "plan": 16630,
+   "drop": 2700,
+   "kind": "ホームラン"
+  },
+  {
+   "circuit": "L1-5",
+   "cable": "VVF2.0-3C",
+   "plan": 7090,
+   "drop": 2700,
+   "kind": "ホームラン"
+  },
+  {
+   "circuit": "L1-6",
+   "cable": "VVF2.0-3C",
+   "plan": 7940,
+   "drop": 2700,
+   "kind": "ホームラン"
+  },
+  {
+   "circuit": "L1-6",
+   "cable": "VVF2.0-3C",
+   "plan": 12640,
+   "drop": 2700,
+   "kind": "ホームラン"
+  },
+  {
+   "circuit": "L1-7",
+   "cable": "VVF2.0-3C",
+   "plan": 7300,
+   "drop": 2700,
+   "kind": "ホームラン"
+  },
+  {
+   "circuit": "L1-8",
+   "cable": "VVF2.0-3C",
+   "plan": 8050,
+   "drop": 2700,
+   "kind": "ホームラン"
+  },
+  {
+   "circuit": "L1-9",
+   "cable": "VVF2.0-3C",
+   "plan": 8800,
+   "drop": 2700,
+   "kind": "ホームラン"
+  },
+  {
+   "circuit": "L1-10",
+   "cable": "VVF2.0-3C",
+   "plan": 9550,
+   "drop": 2700,
+   "kind": "ホームラン"
+  },
+  {
+   "circuit": "L1-11",
+   "cable": "VVF2.0-3C",
+   "plan": 12150,
+   "drop": 2700,
+   "kind": "ホームラン"
+  },
+  {
+   "circuit": "L1-12",
+   "cable": "VVF2.0-3C",
+   "plan": 4770,
+   "drop": 2700,
+   "kind": "ホームラン"
+  },
+  {
+   "circuit": "L2-1",
+   "cable": "VVF1.6-2C",
+   "plan": 1550,
+   "drop": 600,
+   "kind": "ホームラン"
+  },
+  {
+   "circuit": "L2-2",
+   "cable": "VVF2.0-2C",
+   "plan": 6210,
+   "drop": 2700,
+   "kind": "ホームラン"
+  },
+  {
+   "circuit": "L2-3",
+   "cable": "VVF2.0-3C",
+   "plan": 8375,
+   "drop": 2700,
+   "kind": "ホームラン"
+  },
+  {
+   "circuit": "L2-4",
+   "cable": "VVF2.0-3C",
+   "plan": 5925,
+   "drop": 2700,
+   "kind": "ホームラン"
+  },
+  {
+   "circuit": "L2-5",
+   "cable": "VVF2.0-3C",
+   "plan": 3980,
+   "drop": 2700,
+   "kind": "ホームラン"
+  },
+  {
+   "circuit": "L2-6",
+   "cable": "VVF2.0-3C",
+   "plan": 2280,
+   "drop": 2700,
+   "kind": "ホームラン"
+  }
+ ],
+ "edges": [
+  [
+   "c1",
+   "c2"
+  ],
+  [
+   "c2",
+   "c3"
+  ],
+  [
+   "c4",
+   "c5"
+  ],
+  [
+   "c5",
+   "c6"
+  ],
+  [
+   "c7",
+   "c8"
+  ],
+  [
+   "c8",
+   "c9"
+  ],
+  [
+   "c2",
+   "c5"
+  ],
+  [
+   "c5",
+   "c8"
+  ],
+  [
+   "swA",
+   "c6"
+  ],
+  [
+   "e1",
+   "e2"
+  ],
+  [
+   "e2",
+   "e3"
+  ],
+  [
+   "e4",
+   "e5"
+  ],
+  [
+   "e5",
+   "e6"
+  ],
+  [
+   "e1",
+   "e4"
+  ],
+  [
+   "e7",
+   "e8"
+  ],
+  [
+   "e7",
+   "e1"
+  ],
+  [
+   "e9",
+   "e3"
+  ],
+  [
+   "swI",
+   "e4"
+  ],
+  [
+   "d1",
+   "d2"
+  ],
+  [
+   "d1",
+   "d3"
+  ],
+  [
+   "d3",
+   "d6"
+  ],
+  [
+   "d3",
+   "d4"
+  ],
+  [
+   "d4",
+   "d5"
+  ],
+  [
+   "d6",
+   "d7"
+  ],
+  [
+   "d7",
+   "d8"
+  ],
+  [
+   "swU",
+   "d3"
+  ],
+  [
+   "c3",
+   "e1"
+  ],
+  [
+   "e3",
+   "d1"
+  ],
+  [
+   "c3",
+   "s2"
+  ],
+  [
+   "s1",
+   "s2"
+  ],
+  [
+   "swS",
+   "s2"
+  ],
+  [
+   "z11",
+   "z12"
+  ],
+  [
+   "z12",
+   "z13"
+  ],
+  [
+   "z21",
+   "z22"
+  ],
+  [
+   "z22",
+   "z23"
+  ],
+  [
+   "z31",
+   "z32"
+  ],
+  [
+   "z32",
+   "z33"
+  ],
+  [
+   "z41",
+   "z42"
+  ],
+  [
+   "z42",
+   "z43"
+  ],
+  [
+   "z11",
+   "z21"
+  ],
+  [
+   "z21",
+   "z31"
+  ],
+  [
+   "z31",
+   "z41"
+  ],
+  [
+   "s1",
+   "z11"
+  ],
+  [
+   "swE",
+   "z13"
+  ],
+  [
+   "swO",
+   "z33"
+  ],
+  [
+   "swK1",
+   "k1"
+  ],
+  [
+   "k1",
+   "k2"
+  ],
+  [
+   "k2",
+   "k3"
+  ],
+  [
+   "k3",
+   "swK2"
+  ],
+  [
+   "wf1",
+   "swWF"
+  ],
+  [
+   "wm1",
+   "swWM"
+  ],
+  [
+   "oc1",
+   "oc2"
+  ],
+  [
+   "oe1",
+   "oe2"
+  ],
+  [
+   "os1",
+   "os2"
+  ],
+  [
+   "oz1",
+   "oz2"
+  ],
+  [
+   "od1",
+   "od2"
+  ],
+  [
+   "ok1",
+   "ok2"
+  ],
+  [
+   "ol1",
+   "ol2"
+  ],
+  [
+   "ol2",
+   "ol3"
+  ],
+  [
+   "ol4",
+   "ol5"
+  ],
+  [
+   "ol5",
+   "ol6"
+  ],
+  [
+   "ol4",
+   "ol1"
+  ],
+  [
+   "swOA",
+   "ol3"
+  ],
+  [
+   "swOI",
+   "ol6"
+  ],
+  [
+   "og1",
+   "og2"
+  ],
+  [
+   "s1",
+   "HOMERUN"
+  ],
+  [
+   "k1",
+   "HOMERUN"
+  ],
+  [
+   "wf1",
+   "HOMERUN"
+  ],
+  [
+   "wm1",
+   "HOMERUN"
+  ],
+  [
+   "oc1",
+   "HOMERUN"
+  ],
+  [
+   "oe1",
+   "HOMERUN"
+  ],
+  [
+   "os2",
+   "HOMERUN"
+  ],
+  [
+   "oz1",
+   "HOMERUN"
+  ],
+  [
+   "od1",
+   "HOMERUN"
+  ],
+  [
+   "ok1",
+   "HOMERUN"
+  ],
+  [
+   "ow1",
+   "HOMERUN"
+  ],
+  [
+   "ow2",
+   "HOMERUN"
+  ],
+  [
+   "ox1",
+   "HOMERUN"
+  ],
+  [
+   "ox2",
+   "HOMERUN"
+  ],
+  [
+   "ox3",
+   "HOMERUN"
+  ],
+  [
+   "ox4",
+   "HOMERUN"
+  ],
+  [
+   "ox5",
+   "HOMERUN"
+  ],
+  [
+   "oik",
+   "HOMERUN"
+  ],
+  [
+   "ol6",
+   "HOMERUN"
+  ],
+  [
+   "og1",
+   "HOMERUN"
+  ],
+  [
+   "oo1",
+   "HOMERUN"
+  ],
+  [
+   "oo2",
+   "HOMERUN"
+  ],
+  [
+   "oo3",
+   "HOMERUN"
+  ],
+  [
+   "oo4",
+   "HOMERUN"
+  ]
+ ],
+ "feeders": [
+  {
+   "name": "店舗 L-1",
+   "cable": "ニュースラットケーブル 14sq×3",
+   "plan": 2700.0,
+   "drop": 600
+  },
+  {
+   "name": "事務所 L-2",
+   "cable": "ニュースラットケーブル 8sq×3",
+   "plan": 5750.0,
+   "drop": 600
+  }
+ ],
+ "spare_len": 11800.0,
+ "calc": [
+  {
+   "room": "座敷（客席）",
+   "X": 5.879,
+   "Y": 4.93,
+   "A": 28.98,
+   "H": 2.4,
+   "k": 1.12,
+   "fix": "LEDダウンライト φ100 埋込 1,000lm 電球色",
+   "lm": 1000,
+   "U": 0.683,
+   "M": 0.77,
+   "E": 200,
+   "Nreq": 11.01,
+   "N": 12,
+   "Ecalc": 218,
+   "work": "床面"
+  },
+  {
+   "room": "客席（入口・レジ付近）",
+   "X": 3.74,
+   "Y": 5.435,
+   "A": 20.33,
+   "H": 2.4,
+   "k": 0.92,
+   "fix": "LEDダウンライト φ100 埋込 1,000lm 電球色",
+   "lm": 1000,
+   "U": 0.637,
+   "M": 0.77,
+   "E": 200,
+   "Nreq": 8.29,
+   "N": 9,
+   "Ecalc": 217,
+   "work": "床面"
+  },
+  {
+   "room": "客席（カウンター・通路）",
+   "X": 5.879,
+   "Y": 2.409,
+   "A": 18.42,
+   "H": 2.4,
+   "k": 0.71,
+   "fix": "LEDダウンライト φ100 埋込 1,000lm 電球色",
+   "lm": 1000,
+   "U": 0.569,
+   "M": 0.77,
+   "E": 200,
+   "Nreq": 8.4,
+   "N": 9,
+   "Ecalc": 214,
+   "work": "床面"
+  },
+  {
+   "room": "客席（ボックス席）",
+   "X": 3.89,
+   "Y": 4.89,
+   "A": 18.18,
+   "H": 2.4,
+   "k": 0.9,
+   "fix": "LEDダウンライト φ100 埋込 1,000lm 電球色",
+   "lm": 1000,
+   "U": 0.631,
+   "M": 0.77,
+   "E": 200,
+   "Nreq": 7.48,
+   "N": 8,
+   "Ecalc": 214,
+   "work": "床面"
+  },
+  {
+   "room": "便所（女子）",
+   "X": 1.393,
+   "Y": 0.85,
+   "A": 1.18,
+   "H": 2.4,
+   "k": 0.22,
+   "fix": "LEDダウンライト φ100 埋込 1,000lm 電球色",
+   "lm": 1000,
+   "U": 0.384,
+   "M": 0.77,
+   "E": 200,
+   "Nreq": 0.8,
+   "N": 1,
+   "Ecalc": 250,
+   "work": "床面"
+  },
+  {
+   "room": "便所（男子）",
+   "X": 1.399,
+   "Y": 0.85,
+   "A": 1.19,
+   "H": 2.4,
+   "k": 0.22,
+   "fix": "LEDダウンライト φ100 埋込 1,000lm 電球色",
+   "lm": 1000,
+   "U": 0.384,
+   "M": 0.77,
+   "E": 200,
+   "Nreq": 0.8,
+   "N": 1,
+   "Ecalc": 249,
+   "work": "床面"
+  },
+  {
+   "room": "厨房",
+   "X": 5.879,
+   "Y": 2.38,
+   "A": 13.99,
+   "H": 1.55,
+   "k": 1.09,
+   "fix": "LEDベースライト 40形 逆富士 直付 6,900lm 昼白色",
+   "lm": 6900,
+   "U": 0.599,
+   "M": 0.69,
+   "E": 500,
+   "Nreq": 2.45,
+   "N": 3,
+   "Ecalc": 611,
+   "work": "作業面 FL+850"
+  },
+  {
+   "room": "倉庫",
+   "X": 2.83,
+   "Y": 5.4,
+   "A": 15.28,
+   "H": 2.4,
+   "k": 0.77,
+   "fix": "LEDベースライト 40形 逆富士 直付 6,900lm 昼白色",
+   "lm": 6900,
+   "U": 0.511,
+   "M": 0.77,
+   "E": 200,
+   "Nreq": 1.13,
+   "N": 2,
+   "Ecalc": 355,
+   "work": "床面"
+  },
+  {
+   "room": "事務所",
+   "X": 3.89,
+   "Y": 5.35,
+   "A": 20.81,
+   "H": 1.55,
+   "k": 1.45,
+   "fix": "LEDベースライト 40形 逆富士 直付 6,900lm 昼白色",
+   "lm": 6900,
+   "U": 0.662,
+   "M": 0.77,
+   "E": 750,
+   "Nreq": 4.43,
+   "N": 6,
+   "Ecalc": 1015,
+   "work": "作業面 FL+850"
+  }
+ ],
+ "fixtures": {
+  "DL": {
+   "name": "LEDダウンライト φ100 埋込 1,000lm 電球色",
+   "lm": 1000,
+   "W": 8.5,
+   "U": [
+    [
+     0.0,
+     0.3
+    ],
+    [
+     0.6,
+     0.53
+    ],
+    [
+     0.8,
+     0.6
+    ],
+    [
+     1.0,
+     0.66
+    ],
+    [
+     1.25,
+     0.71
+    ],
+    [
+     1.5,
+     0.75
+    ],
+    [
+     2.0,
+     0.8
+    ],
+    [
+     2.5,
+     0.83
+    ],
+    [
+     3.0,
+     0.86
+    ]
+   ]
+  },
+  "BL": {
+   "name": "LEDベースライト 40形 逆富士 直付 6,900lm 昼白色",
+   "lm": 6900,
+   "W": 45,
+   "U": [
+    [
+     0.0,
+     0.25
+    ],
+    [
+     0.6,
+     0.45
+    ],
+    [
+     0.8,
+     0.52
+    ],
+    [
+     1.0,
+     0.58
+    ],
+    [
+     1.25,
+     0.63
+    ],
+    [
+     1.5,
+     0.67
+    ],
+    [
+     2.0,
+     0.73
+    ],
+    [
+     2.5,
+     0.77
+    ],
+    [
+     3.0,
+     0.8
+    ]
+   ]
+  }
+ },
+ "crossings": 8
+}
